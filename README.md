@@ -12,5 +12,5 @@
 5. `настроена безопасная передача токена от облака в terraform через переменные окружения`
 
 `Результат выполнения комманды` **```terraform apply```** `:`
-![Скриншот-1](https://github.com/netology-code/sys-pattern-homework/blob/main/img/terraform_apply.png)
+![Скриншот-1](https://github.com/hokum83/7-03/blob/main/img/terraform_apply.png)
 
