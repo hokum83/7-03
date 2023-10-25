@@ -1,0 +1,7 @@
+cloud_id        = "your_cloud_id"
+folder_id       = "your_folder_id"
+image_id        = "your_image_id"
+zone            = "ru-central1-b"
+ssh_private_key = "~/.ssh/userkey"
+user            = "user"
+icount          = 2
